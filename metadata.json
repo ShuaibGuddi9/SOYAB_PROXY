@@ -1,0 +1,6 @@
+{
+  "name": "SOYAB-PROXY System",
+  "description": "SOYAB-PROXY Key & License Management, Multiport Server Controller, MOD Safety, Game Patches & MiniApp Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
